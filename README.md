@@ -38,17 +38,6 @@ An end-to-end NLP pipeline built using **PySpark**, hosted on **Databricks**, an
 * Reduced manual sentiment tagging effort by **40%** through automation.
 * Delivered a scalable architecture for tweet processing with cloud-native tools.
 
----
-
-### 📂 Repo Structure (if hosted)
-
-```
-├── data/              # Sample CSV (optional)
-├── notebooks/         # Databricks notebook export
-├── src/               # Spark ML pipeline code (if modularized)
-├── reports/           # Summary and evaluation
-└── README.md
-```
 
 ---
 Note: This project was originally created during academic coursework using public datasets and entirely self-written code. It is shared solely for skill demonstration and not intended for academic reuse.
